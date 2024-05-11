@@ -1,16 +1,19 @@
-# http_practice
+# Flutter HTTP Requests Example
 
-A new Flutter project.
+This Flutter project demonstrates how to perform HTTP requests (GET, POST, PUT/PATCH, DELETE) in a Flutter app using the `http` package.
+
+## Features
+
+- Fetch data from an API using GET request.
+- Create new data using POST request.
+- Update existing data using PUT or PATCH request.
+- Delete data using DELETE request.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get started with this project, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+1. Clone this repository to your local machine:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   ```bash
+   git clone https://github.com/your-username/flutter_http_requests_example.git
